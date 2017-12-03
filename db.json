@@ -1,0 +1,39 @@
+{
+    "mysite": {
+        "home": {
+             "FirstName": "Rajendra",
+              "LastName": "Taradale",
+               "title": "Full Stack Developer / .Net Technologies",
+               "PhoneNumber": "+91 9762076446",
+                "Address": "Dhanori Pune 411015",
+                "Email": "rajendra.taradale@gmail.com",
+        },
+        "aboutme" : {
+             "FirstDesc": "Over 6+ Years of experience in IT Industry (Zensar & Cognizant Technologies) Hands on experience in all phases of Software Development Life Cycle (SDLC), Agile Framework (Srum,Kanban and SAFe-Scaled)",
+              "SecondDesc": "Microsoft Certified Technology Specialist in Web App Dev 4.0 Microsoft Certified Specialist in HTML5, JS and CSS3.",
+              Skills [
+                  {"Sname":"ASP.NET / MVC / BASIC CORE", "range" : 100},
+                    {"Sname":"JQUERY / JAVASCRIPT / TYPESCRIPT / ANGULAR JS 2.0", "range" : 60},
+                      {"Sname":"SQL / MYSQL / BASIC ORACLE", "range" : 60},
+                       {"Sname":"ENTITY FRAMEWORK", "range" : 60},
+                        {"Sname":"PHOTOSHOP", "range" : 60},
+                         {"Sname":"MULTITASKING", "range" : 60},
+                          {"Sname":"CREATIVE", "range" : 60},
+                           {"Sname":"RESPONSIBLE", "range" : 60}
+                                               
+                  ]
+        }
+        "work" : [{"company":"Mastercard Financial services company", "Iscompany" : true },
+        {"company":"Zensar Technologies", "Iscompany" : true},
+         {"company":"Cognizat Technologies Solutions", "Iscompany" : true},
+          {"company":"M-Tech Innovations Ltd", "Iscompany" : true},
+           {"company":"Agile Technologies used", "Iscompany" : false},
+            {"company":"SAFe-Agile Framework", "Iscompany" : false},
+        
+        ]
+
+        "blog" : [{"date" :"05-02-2017","title":"C# Corner - A Social Community Of Developers And Programmers"},
+        {"date" :"05-02-2017","title":"The World's Leading Software Development Platform · GitHub"}]
+
+		    }
+}
