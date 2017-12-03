@@ -1,11 +1,101 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "Name" : "RajendraTaradale",
+  "Users" : {
+    "-KsszzC7b-u5BfOslZNj" : [ {
+      "ContanctNo" : "9762076446",
+      "Email" : "rajendra.taradale@gmail.com",
+      "Message" : "adsfaksdgfdhjsgfdjshgfj",
+      "Name" : "Rajendra Taradale"
+    } ],
+    "-KstSocCZxO_txR6wVoF" : [ {
+      "ContanctNo" : "9762076446",
+      "Email" : "rajendra.taradale@gmail.com",
+      "Message" : "sdfasdfdsfasdf",
+      "Name" : "Rajendra Taradale"
+    } ],
+    "-Kum3AKClRq8_bOzvqQj" : [ {
+      "ContanctNo" : "9762076446",
+      "Email" : "rajendra.taradale@gmail.com",
+      "Message" : "asdfdsfdsfdsfa",
+      "Name" : "Rajendra Taradale"
+    } ]
+  },
+  "mysite" : {
+    "aboutme" : {
+      "FirstDesc" : "Over 6+ Years of experience in IT Industry (Zensar & Cognizant Technologies) Hands on experience in all phases of Software Development Life Cycle (SDLC), Agile Framework (Srum,Kanban and SAFe-Scaled)",
+      "SecondDesc" : "Microsoft Certified Technology Specialist in Web App Dev 4.0 Microsoft Certified Specialist in HTML5, JS and CSS3.",
+      "Skills" : [ {
+        "Sname" : "ASP.NET / MVC / BASIC CORE",
+        "range" : 100,
+        "technical" : true
+      }, {
+        "Sname" : "JQUERY / JAVASCRIPT / TYPESCRIPT / ANGULAR JS 2.0",
+        "range" : 60,
+        "technical" : true
+      }, {
+        "Sname" : "SQL / MYSQL / BASIC ORACLE",
+        "range" : 60,
+        "technical" : true
+      }, {
+        "Sname" : "ENTITY FRAMEWORK",
+        "range" : 60,
+        "technical" : true
+      }, {
+        "Sname" : "ASP.NET MVC 6",
+        "range" : 60,
+        "technical" : false
+      }, {
+        "Sname" : "MULTITASKING",
+        "range" : 60,
+        "technical" : false
+      }, null, {
+        "Sname" : "WCF WEB API REST",
+        "range" : 60,
+        "technical" : true
+      } ]
+    },
+    "blog" : [ {
+      "date" : "11/30/2010",
+      "title" : "C# Corner - A Social Community Of Developers And Programmers",
+      "url" : "http://www.c-sharpcorner.com/members/rajendra-taradale3/articles#"
+    }, {
+      "date" : "08/23/2017",
+      "title" : "The World's Leading Software Development Platform � GitHub",
+      "url" : "https://github.com/RajendraTaradale#"
+    }, {
+      "date" : "12/02/2017",
+      "title" : "WordPress is a free and open-source content management system (CMS) ",
+      "url" : "https://rajendrataradale.wordpress.com/"
+    } ],
+    "home" : {
+      "Address" : "Dhanori Pune 411015",
+      "Email" : "rajendra.taradale@gmail.com",
+      "FirstName" : "Rajendra",
+      "LastName" : "Taradale",
+      "PhoneNumber" : "+91 9762076446",
+      "title" : "Full Stack Developer / .Net Technologies"
+    },
+    "work" : [ {
+      "Iscompany" : true,
+      "company" : "Mastercard Financial services company"
+    }, {
+      "Iscompany" : true,
+      "company" : "Zensar Technologies"
+    }, {
+      "Iscompany" : true,
+      "company" : "Cognizat Technologies Solutions"
+    }, {
+      "Iscompany" : true,
+      "company" : "M-Tech Innovations Ltd"
+    }, {
+      "Iscompany" : false,
+      "company" : "Agile Technologies used"
+    }, {
+      "Iscompany" : false,
+      "company" : "SAFe-Agile Framework"
+    } ]
   }
 }
+
+
+
